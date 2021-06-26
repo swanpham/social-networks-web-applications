@@ -1,1 +1,1 @@
-# social-networks-web-applications
+# Social Networks Web Applications
