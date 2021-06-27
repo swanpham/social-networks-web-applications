@@ -35,10 +35,8 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
 ## [Walkthrough videos]
-* [Mysql set up](https://drive.google.com/file/d/1SXdudGeUFhUTkMsvNbyKiqhl4JINhFZD/view?usp=sharing)
-* [api Category demo](https://drive.google.com/file/d/1M018OpFXWMSbd-P7I39APsHN79St_9LJ/view?usp=sharing)
-* [api Product demo](https://drive.google.com/file/d/110hHsL3K3K5A8Ey52F8PjyGb-BJmCOvO/view?usp=sharing)
-* [api Tag demo](https://drive.google.com/file/d/1cUrHeOxDto5uAEULhj5LE4t_C7VFwuQ7/view?usp=sharing)
+
+* [api demo](https://drive.google.com/file/d/1cUrHeOxDto5uAEULhj5LE4t_C7VFwuQ7/view?usp=sharing)
 
 ## Contribution
 
