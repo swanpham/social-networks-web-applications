@@ -47,7 +47,5 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Built With
 
 - Express.js
-- Javascript
-- Nosql2
 - Mongoose
 
