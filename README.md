@@ -36,7 +36,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## [Walkthrough videos]
 
-* [api demo](https://drive.google.com/file/d/1cUrHeOxDto5uAEULhj5LE4t_C7VFwuQ7/view?usp=sharing)
+* [api demo](https://drive.google.com/file/d/1yZ7VQrAHmA_8QPBH6FuYf_60w-juVfqq/view?usp=sharing)
 
 ## Contribution
 
