@@ -7,7 +7,7 @@
   
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/78882909/119286879-561be000-bc13-11eb-9ed3-53a0e528018d.png)
+![image](https://user-images.githubusercontent.com/78882909/123530568-f4dfa480-d6c9-11eb-89e8-302d13bc2f2a.png)
 
 ## Installation
 
